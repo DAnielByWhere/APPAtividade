@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">AtividadeFixacao</string>
+    <string name="SelectTela1">Selecione um:</string>
+
+    <string name="btnExercicio1">Exercicio 1</string>
+    <string name="btnExercicio6">Exercicio 6</string>
+    <string name="btnExecutar1">Executar</string>
+    <string name="btnCalcular">Calcular</string>
+
+    <string name="EdxtA" />
+    <string name="hintA">Digite um numero</string>
+    <string name="EdxtB" />
+    <string name="hintB">Digite outro numero</string>
+    <string name="EdxtOpcoes"/>
+    <string name="hintOpcoes">Digite o código da opção</string>
+    <string name="EdxtQTD"/>
+    <string name="hintQTD">Selecione a quantidade</string>
+
+    <string name="imgOpcoes"/>
 </resources>
