@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">AtividadeFixacao</string>
     <string name="SelectTela1">Selecione um:</string>
+    <string name="textViewResultado"/>
+    <string name="textViewPreco"/>
 
     <string name="btnExercicio1">Exercicio 1</string>
     <string name="btnExercicio6">Exercicio 6</string>

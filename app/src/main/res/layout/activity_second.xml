@@ -6,15 +6,26 @@
     android:layout_height="match_parent"
     tools:context=".SecondActivity">
 
+    <Button
+        android:id="@+id/btnExecutar"
+        android:layout_width="172dp"
+        android:layout_height="57dp"
+        android:onClick="verificarMultiplos"
+        android:text="@string/btnExecutar1"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.676" />
+
     <EditText
-        android:id="@+id/EdxtA"
+        android:id="@+id/editTextA"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:autofillHints=""
         android:ems="10"
         android:hint="@string/hintA"
         android:inputType="text"
-        android:minHeight="48dp"
         android:text="@string/EdxtA"
         android:textColorHint="#513780"
         android:textSize="24sp"
@@ -23,10 +34,11 @@
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.283" />
+        app:layout_constraintVertical_bias="0.185"
+        android:autofillHints="" />
 
     <EditText
-        android:id="@+id/EdxtB"
+        android:id="@+id/editTextB"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:autofillHints=""
@@ -37,22 +49,21 @@
         android:textColorHint="#513780"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/EdxtA"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="@+id/EdxtA"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.454" />
+        app:layout_constraintVertical_bias="0.353" />
 
-    <Button
-        android:id="@+id/btnExecutar"
-        android:layout_width="172dp"
-        android:layout_height="57dp"
-        android:text="@string/btnExecutar1"
+    <TextView
+        android:id="@+id/textViewResultado"
+        android:layout_width="275dp"
+        android:layout_height="50dp"
+        android:text="@string/textViewResultado"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.676" />
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
