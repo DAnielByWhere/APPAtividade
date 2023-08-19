@@ -118,7 +118,7 @@ O Git Commit -a -m, foi utilizado para dar commit nos arquivos que foram modific
 mas os novos arquivos sobre os quais você não informou o Git não são afetados.
 
 - "-m" para adicionar a mensagem ao commit.
-- 
+
 <br><br><br>
 
 ![14Print(GitPush Criação das telas)](https://github.com/DAnielByWhere/APPAtividade/assets/127262745/4187e160-6d18-479e-b2b0-972c3878f4b6)<br>
@@ -192,3 +192,7 @@ Git Status utilizado para verificar se não há nenhum arquivo pendente ao commi
 
 ![26Print(Funcionalidades)](https://github.com/DAnielByWhere/APPAtividade/assets/127262745/0a6cb1d3-7c9d-487a-8fb1-7f8d8ba3f996)<br>
 Git Push utilizado para enviar as alterações ao repositorio remoto após adicionarmos as funcionalidades.
+<br><br><br>
+
+### Link do vídeo do aplicativo funcionando (Canal do membro Daniel Biondi)
+### https://youtu.be/49N0vjnZYvM
