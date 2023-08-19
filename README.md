@@ -38,7 +38,7 @@ O Git Commit -a -m, foi utilizado para dar commit nos arquivos.
 mas os novos arquivos sobre os quais você não informou o Git não são afetados.
 
 - "-m" para adicionar a mensagem ao commit.
-- 
+
 <br><br><br>
 
 ![6Print(GitStatus)](https://github.com/DAnielByWhere/APPAtividade/assets/127262745/a0bd691e-90d1-4401-9012-105fdc974d02)<br>
@@ -182,7 +182,7 @@ O Git Commit -a -m, foi utilizado para dar commit nos arquivos que foram modific
 mas os novos arquivos sobre os quais você não informou o Git não são afetados.
 
 - "-m" para adicionar a mensagem ao commit.
-- 
+
 <br><br><br>
 
 ![25Print(GitStatus Funcionalidades)](https://github.com/DAnielByWhere/APPAtividade/assets/127262745/d8c34fd0-e6d0-4b31-a64c-ba678e295805)
